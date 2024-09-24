@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Satyapal and I'm a Python enthusiast from India</p>
+<p align="left">My name is Satyapal and I'm a Javascript enthusiast from India</p>
 
 ###
 
